@@ -1,2 +1,2 @@
 # digi_watch
-shell scripting
+digital clock shell script
